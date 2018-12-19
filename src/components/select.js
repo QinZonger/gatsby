@@ -1,8 +1,11 @@
+import React from 'react'
 import Layout from './layout'
-const Select = () => (
+function Select () {
+    return (
     <Layout>
       <button>sdvfdvdf</button>
     </Layout>
-  )
+    )
+}
   
   export default Select
